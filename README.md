@@ -1,3 +1,6 @@
+# Demo 
+![2023-06-23 16-10-07 00_00_48-00_01_59 00_00_00-00_00_30](https://github.com/mirosh-kavinda/GoogleMapClone/assets/74175084/03bd22fa-e4ae-4c19-aebe-89e7fd1aa963)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -9,10 +12,12 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
 
 ### `npm test`
 
